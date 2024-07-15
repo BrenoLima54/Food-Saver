@@ -1,0 +1,6 @@
+Arroz,Feijao,Ovo
+Arroz,Bife,Cebola
+Ovo,Salsinha,Sal
+Arroz,Frango,Alface
+flocao marata,ovo
+Massa,mussarela,queijo
